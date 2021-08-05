@@ -548,10 +548,10 @@ table.neko-1 td {
 .sarug {
   display: flex;
   width: 100%;
-} 
+}
 
 .sarug img {
-  width: 720px;
+  width: 50vw;
   height: auto;
 }
 
