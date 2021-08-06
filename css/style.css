@@ -137,7 +137,7 @@
 }
 .dog1 {
   color: grey;
-  position: relative;
+  position: absolute;
   top: -180px;
   left: 18%;
   width: 200px;
@@ -207,20 +207,22 @@ padding: 2px 10px;
   margin-left: auto;
 }
 
+
+
 .kani {
   background-color: whitesmoke;
   width: auto;
   height: 400px;
-  /* display: table; */
+  position: relative;
 }
 
-
-.kani a img {
+.kani4 {
   width: 350px;
   position: absolute;
   left: 60%;
-  top: 1430px;
+  top: 35%;
 }
+
 
 .kani2 {
   color: grey;
